@@ -5,7 +5,7 @@ This project implements a bird species classification system using deep feature 
 
 The objective was to classify images into one of 200 bird species using pretrained convolutional neural network features and evaluate multiple classifiers to determine optimal performance.
 
-The best model achieved 86% classification accuracy using Logistic Regression on PCA-reduced feature vectors.
+The best model achieved 86% classification accuracy using Logistic Regression on PCA-reduced ResNet50 feature vectors.
 
 Dataset
 -------

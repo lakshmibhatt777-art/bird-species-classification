@@ -75,12 +75,13 @@ Observed improved classification performance at 1024 components
 
 4. Classification Models Evaluated
 
-Model	Accuracy
-Logistic Regression	86%
-Neural Network Classifier	78%
-K-Nearest Neighbors	72%
-Support Vector Classifier	61%
-Decision Tree	45%
+| Model | Accuracy |
+|-------|----------|
+| Logistic Regression | 86% |
+| Neural Network Classifier |	78% |
+| K-Nearest Neighbors |	72% |
+| Support Vector Classifier	| 61% |
+| Decision Tree |	45% |
 
 The highest performance was achieved using Logistic Regression (86% accuracy).
 

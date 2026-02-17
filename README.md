@@ -124,6 +124,6 @@ Hybrid deep learning + classical ML pipeline
 Project Context
 ---------------
 
-Developed as part of the Certified AI Professional program conducted by National Institute of Electronics and Information Technology, Calicut.
+Developed as part of the Certified AI Professional course provided by National Institute of Electronics and Information Technology, Calicut.
 
 This project was independently implemented to apply deep learning and machine learning concepts in a real-world image classification task.
